@@ -15,8 +15,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
 
 - 👋 Hi, I'm Salohiddin Rahmatov
 - :computer: I'm currently working on JavaScript & Vue
-- 👀 I’m interested in Programming in Web Development
-- 🌱 I’m currently learning programming...
+- 👀 I’m interested in Web Development
 - :rocket: Always ready to collaborate for Dev Experiments
 - - 📫 How to reach me rsalohiddin007@gmail.com
 
