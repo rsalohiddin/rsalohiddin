@@ -1,4 +1,4 @@
-<h1 align="center">Front_End Developer</h1>
+<h1 align="center">FrontEnd Developer</h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
