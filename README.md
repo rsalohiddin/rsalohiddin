@@ -6,8 +6,7 @@ I am a software engineer specializing in building Front-End services, web applic
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Learn more about me and contact me here:
 
-
-[Linkedin Badge](https://img.shields.io/badge/-Salohiddin_Rahmatov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salohiddin-rahmatov-1b455925b/)]
+[![Linkedin Badge](https://img.shields.io/badge/-Salohiddin_Rahmatov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salohiddin-rahmatov-1b455925b/)]
 [![Telegram Badge](https://img.shields.io/badge/@sukhrobnuraliev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev) 
 [![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
 
