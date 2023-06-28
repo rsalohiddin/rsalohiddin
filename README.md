@@ -13,11 +13,12 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & Vue
-- :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :triangular_flag_on_post: I teach code on YouTube
-- :muscle: Do Bodybuilding & Calisthenics
+- 👋 Hi, I'm Salohiddin Rahmatov
+- :computer: I'm currently working on JavaScript & Vue
+- 👀 I’m interested in Programming in Web Development
+- 🌱 I’m currently learning programming...
 - :rocket: Always ready to collaborate for Dev Experiments
+- - 📫 How to reach me rsalohiddin007@gmail.com
 
 ## ⚡ Technologies
 
