@@ -8,7 +8,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
 
 [![Linkedin Badge](https://img.shields.io/badge/-Salohiddin_Rahmatov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salohiddin-rahmatov-1b455925b/)](https://www.linkedin.com/in/salohiddin-rahmatov-1b455925b/) 
 [![Telegram Badge](https://img.shields.io/badge/@rsalohiddin07-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/rsalohiddin07)](https://t.me/rsalohiddin07) 
-[![Youtube Badge](https://img.shields.io/badge/@mr__salohiddin-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/mr_salohiddin)](https://www.youtube.com/channel/mr_salohiddin)
+[![Youtube Badge](https://img.shields.io/badge/@mr__salohiddin-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC5HAydTsBh4WxIpZQz-xzFA)](https://www.youtube.com/channel/UC5HAydTsBh4WxIpZQz-xzFA)
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
