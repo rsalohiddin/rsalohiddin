@@ -34,6 +34,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
 ![Image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Image](	https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sukhrobnuraliev&show_icons=true&theme=gotham" alt="sukhrobnuraliev" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rsalohiddin&show_icons=true&theme=gotham" alt="rsalohiddin" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsalohiddin&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="rsalohiddin" /></a> </p>
