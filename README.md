@@ -3,7 +3,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am a software engineer specializing in building Front-End services, web applications and systems using JavaScript and Vue.js. I solve problems, automate things, help businesses and people grow and improve their lives.</br>
-
 I am always open to collaborating on projects and innovative/disruptive ideas. Learn more about me and contact me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Salohiddin_Rahmatov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salohiddin-rahmatov-1b455925b/)](https://www.linkedin.com/in/salohiddin-rahmatov-1b455925b/) 
@@ -33,7 +32,3 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
 ![Image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>
 ![Image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Image](	https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rsalohiddin&show_icons=true&theme=gotham" alt="rsalohiddin" />
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsalohiddin&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="rsalohiddin" /></a> </p>
