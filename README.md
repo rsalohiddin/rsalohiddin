@@ -2,7 +2,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a software engineer specializing in building Front-End services, web applications and systems using JavaScript and Vue.js. I solve problems, automate things, help businesses and people grow and improve their lives.</br>
+Aspiring student developer interested in frontend development, Python, and full-stack web technologies. I build web projects, explore problem-solving, and continue improving my programming skills. I use GitHub to showcase my projects and problem-solving skills.</br>
 I am always open to collaborating on projects and innovative ideas. Learn more about me and contact me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Salohiddin_Rahmatov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salohiddin-rahmatov-1b455925b/)](https://www.linkedin.com/in/salohiddin-rahmatov-1b455925b/) 
