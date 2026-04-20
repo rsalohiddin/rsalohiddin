@@ -13,7 +13,6 @@ I am always open to collaborating on projects and innovative ideas. Learn more a
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 👋 Hi, I'm Salohiddin Rahmatov
-- :computer: I'm currently working on JavaScript & Vue
 - 👀 I’m interested in Web Development
 - :rocket: Always ready to collaborate for Dev Experiments
 - 📫 How to reach me rsalohiddin007@gmail.com
